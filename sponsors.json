@@ -1,0 +1,23 @@
+[{
+  "_id": "sponsor1",
+  "name": "Google",
+  "specialStatus": true,
+  "tournaments": [
+    "tournament1",
+    "tournament2"
+  ]
+},{
+  "_id": "sponsor2",
+  "name": "Facebook",
+  "specialStatus": false,
+  "tournaments": [
+    "tournament1"
+  ]
+},{
+  "_id": "sponsor3",
+  "name": "Magnus Carlsen",
+  "specialStatus": true,
+  "tournaments": [
+    "tournament2"
+  ]
+}]

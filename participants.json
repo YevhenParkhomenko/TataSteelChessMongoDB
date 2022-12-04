@@ -1,0 +1,31 @@
+[{
+  "_id": "participant1",
+  "name": "Magnus Carlsen",
+  "bYear": 1990,
+  "rating": 2864,
+  "fed": "NOR"
+},{
+  "_id": "participant2",
+  "name": "Ding Liren",
+  "bYear": 1992,
+  "rating": 2806,
+  "fed": "CHN"
+},{
+  "_id": "participant3",
+  "name": "Fabiano Caruana",
+  "bYear": 1992,
+  "rating": 2786,
+  "fed": "USA"
+},{
+  "_id": "participant4",
+  "name": "Hikaru Nakamura",
+  "bYear": 1987,
+  "rating": 2760,
+  "fed": "USA"
+},{
+  "_id": "participant5",
+  "name": "Anand Viswananathan",
+  "bYear": 1969,
+  "rating": 1751,
+  "fed": "IND"
+}]

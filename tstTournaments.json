@@ -1,0 +1,17 @@
+[{
+  "_id": "tournament1",
+  "slogan": "Hello world!",
+  "prizePool": 100000,
+  "sponsors": [
+    "sponsor1",
+    "sponsor2"
+  ]
+},{
+  "_id": "tournament2",
+  "slogan": "Hell of a word!",
+  "prizePool": 100001,
+  "sponsors": [
+    "sponsor1",
+    "sponsor3"
+  ]
+}]

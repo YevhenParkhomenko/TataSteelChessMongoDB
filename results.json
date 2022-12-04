@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "638d073c7022f0e4a91e5f9e"
+  },
+  "tournament": "tournament1",
+  "participant": "participant1",
+  "points": 2,
+  "performance": 2900
+},{
+  "_id": {
+    "$oid": "638d073c7022f0e4a91e5f9f"
+  },
+  "tournaments": "tournament2",
+  "participant": "participant1",
+  "points": 3,
+  "performance": 2950
+},{
+  "_id": {
+    "$oid": "638d073c7022f0e4a91e5fa0"
+  },
+  "tournaments": "tournament1",
+  "participant": "participant2",
+  "points": 1,
+  "performance": 2750
+},{
+  "_id": {
+    "$oid": "638d073c7022f0e4a91e5fa1"
+  },
+  "tournaments": "tournament2",
+  "participant": "participant2",
+  "points": 0,
+  "performance": 2700
+}]
